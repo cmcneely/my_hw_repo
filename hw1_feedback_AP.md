@@ -1,0 +1,3 @@
+Almost a perfect set of answers! Just missing a few things:<br>
+Q 2a: Typically you would assume a normal distribution for your dataset, and through the exploratory process determine what it actually looks like. From there, you'd figure out if transforming the data makes sense to help normalize the data more. <br>
+Q 4: You'd want to quickly summarize a step-by-step process of what you'd do during the exploratory process, ie: Check for nulls, check distributions, colinearity, skewness, outliers (you can easily plot a box-plot). 
