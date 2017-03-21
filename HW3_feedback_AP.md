@@ -1,0 +1,3 @@
+Just a few clarifying points: <br>
+Q3.7: To be more specific, The odds of being admitted to graduate school are 60% lower for students who attended a 4th teir school compared to students who did not attend a 4th teir school. OR For students who attended a 4th tier school the odds of being admitted into gradauate school are 0.41 times the odds of students who did not attend a 4th teir school. <br>
+Q4.5: For additional clarity: Students who attended a teir 2 undergraduate school had 0.50 the odds of being admitted to graduate school compared to students who attend a teir 1 undergraduate school. <br>
